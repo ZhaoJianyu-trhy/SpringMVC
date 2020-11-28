@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc-01-hellomvc" />
         <module name="springmvc-01" />
+        <module name="springmvc-03-anno" />
+        <module name="springmvc-04-controller" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
